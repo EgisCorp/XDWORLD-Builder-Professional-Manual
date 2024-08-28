@@ -2,7 +2,7 @@
 
 제공된 설치 파일을 보면 다음과 같이 구성되며
 
-<설치 파일 이미지\_1>
+<figure><img src=".gitbook/assets/install_1.bmp" alt=""><figcaption><p>&#x3C; 설치 파일 ></p></figcaption></figure>
 
 Setup.exe 파일를 실행하면 다음과 같이 설치화면이 실행된다.
 
