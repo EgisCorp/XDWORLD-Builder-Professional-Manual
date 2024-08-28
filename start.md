@@ -14,8 +14,6 @@
 
 XDWORLD Builder Professional의 메인 창 화면이다.
 
-<메인화면 구성 이미지\_3>
-
 <figure><img src=".gitbook/assets/start_3.png" alt=""><figcaption><p>&#x3C; 메인화면 구성 ></p></figcaption></figure>
 
 -   1: 홈 리본 메뉴
@@ -29,6 +27,5 @@ XDWORLD Builder Professional의 메인 창 화면이다.
 ### 홈 리본 메뉴
 
 <figure><img src=".gitbook/assets/start_4.png" alt=""><figcaption><p>&#x3C; 홈 리본 메뉴 기능 구성 ></p></figcaption></figure>
-<홈 리본 메뉴 기능 구성 이미지\_4>
 
 홈 메뉴는 3차원 지도를 관리하고 지도 환경을 저장하거나 불러오며 마우스의 선택 상태를 관리하고 특정 지도를 내보내기할 수 있는 기능과 다양한 외부의 오픈된 지도를 연결하여 융합할 수 있는 기능이 있다. 지도 상에서 거리, 면적, 높이를 측정할 수 있으며 지도를 투명하게 보거나 단순하게 보는 기능 그리고 화면을 3인칭에서 1인칭으로 전환하는 기능이 있다. 다양한 외부 사용자 생성 모듈을 등록할 수 있는 기능을 제공한다.
