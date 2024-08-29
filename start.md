@@ -16,7 +16,7 @@
 
 해당 메시지창 생성 시 라이센스 항목 참고 부탁드립니다.
 
-{% embed url="https://github.com/EgisCorp/XDWorld" %}
+{% embed url="https://egiscorp.gitbook.io/https-egiscorp.gitbook.io-xdworld-builder-manual/introduce/license" %}
 
 ## 메인 화면
 
@@ -24,13 +24,13 @@ XDWORLD Builder Professional의 메인 창 화면이다.
 
 <figure><img src=".gitbook/assets/start_3.png" alt=""><figcaption><p>&#x3C; 메인화면 구성 ></p></figcaption></figure>
 
-* 1: 홈 리본 메뉴
-* 2: 가공 리본 메뉴
-* 3: 레이어 제어 메뉴
-* 4: 레이어 속성 메뉴
-* 5: 지도창 화면
-* 6: 주요 기능 화면 메뉴
-* 7: 출력화면 메뉴
+-   1: 홈 리본 메뉴
+-   2: 가공 리본 메뉴
+-   3: 레이어 제어 메뉴
+-   4: 레이어 속성 메뉴
+-   5: 지도창 화면
+-   6: 주요 기능 화면 메뉴
+-   7: 출력화면 메뉴
 
 ### 홈 리본 메뉴
 
