@@ -1,6 +1,6 @@
 # 라이센스
 
-<figure><img src=".gitbook/assets/licence_1.png" alt=""><figcaption><p>&#x3C; 라이센스 등록 메시지창 ></p></figcaption></figure>
+<figure><img src=".gitbook/assets/licence_1.jpg" alt=""><figcaption><p>&#x3C; 라이센스 등록 메시지창 ></p></figcaption></figure>
 
 ## 라이센스 발급
 
