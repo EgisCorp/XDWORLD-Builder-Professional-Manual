@@ -10,6 +10,14 @@
 
 <figure><img src=".gitbook/assets/start_2.png" alt=""><figcaption><p>&#x3C; 실행 화면 ></p></figcaption></figure>
 
+## 라이센스
+
+<figure><img src=".gitbook/assets/licence_1.png" alt=""><figcaption><p>&#x3C; 라이센스 등록 메시지창 ></p></figcaption></figure>
+
+해당 메시지창 생성 시 라이센스 항목 참고 부탁드립니다.
+
+{% embed url="https://github.com/EgisCorp/XDWorld" %}
+
 ## 메인 화면
 
 XDWORLD Builder Professional의 메인 창 화면이다.
