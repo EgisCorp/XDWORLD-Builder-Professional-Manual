@@ -4,8 +4,8 @@
 
 -   [XDWORLD Builder Professional](README.md)
 -   [설치하기](install.md)
--   [시작하기](start.md)
 -   [라이센스](license.md)
+-   [시작하기](start.md)
 -   [Release Note](introduce/release-note/README.md)
     -   [2.x 버전 업데이트](introduce/release-note/2.x.md)
 
