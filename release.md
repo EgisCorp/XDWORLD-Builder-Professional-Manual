@@ -1,5 +1,44 @@
 # - 업데이트 내역 -
 
+### 5.1.12
+
+-   Issues 처리
+    -   [issues 85](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/85)
+    -   [issues 83](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/83)
+    -   [issues 82](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/82)
+    -   [issues 77](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/77)
+-   기능
+    -   지도 저장 기능 수정(xdw -> xdm 변경)
+        -   사용자 지도 저장 기능 추가.
+        -   저장 구조 변경으로 xdw 파일은 미지원.
+    -   건물 LOD Texture 기능 수정
+    -   포인트 클라우드 파일 포맷 버전 수정에 따른 기능 변경
+
+### 5.1.11
+
+-   Issues 처리
+    -   [issues 84](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/84)
+    -   [issues 80](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/80)
+    -   [issues 78](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/78)
+    -   [issues 76](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/76)
+    -   [issues 75](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/75)
+-   기능
+    -   레이어 다중 삭제 기능 수정.
+    -   레이어 명칭 수정 기능 및 관련 기능 추가.
+    -   지형 음수 처리 기능.
+
+### 5.1.10
+
+-   레이어 삭제 모듈 수정 (https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/72 처리)
+-   POI 가공, 가시화 모듈 수정 (https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/63 처리)
+-   선택된 객체 해제 기능 추가
+
+### 5.1.10
+
+-   POI 가공, 가시화 모듈 수정 ([issues73](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/73) 처리완료)
+-   레이어 삭제 모듈 수정 ([issues72](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/72) 처리완료)
+-   선택된 객체 해제 기능 추가
+
 ### 5.1.9
 
 -   3DS, OBJ 가공 수정
